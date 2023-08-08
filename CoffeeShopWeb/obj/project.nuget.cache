@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihSPYlCEGDN/r4ARuf0Ar+rnyiKjS2yAjz27kpCuB9ZbGsxbK7fWwV8Z+UtjjiNjhchBZH9q2NmnBjUdXUTFOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joifa\\OneDrive\\Documents\\TESTMANDIRI\\CoffeeShopCouponSolution\\CoffeeShopWeb\\CoffeeShopWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joifa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
